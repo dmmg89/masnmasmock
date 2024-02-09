@@ -1,0 +1,50 @@
+{
+    "users":[
+
+        {
+            "id": 1,
+            "lastName": "Manrique",
+            "password": "chinchillaLover",
+            "name": "Victoria",
+            "telephone": "expensive",
+            "uuid": "Vico",
+            "email": "victoria.manrique@smartqs.com"
+        },
+        {
+            "id": 2,
+            "lastName": "Bases",
+            "password": "bases666",
+            "name": "Luis",
+            "telephone": "stolen",
+            "uuid": "basesbases",
+            "email": "luis.gonzalez@smartqs.com"
+        },
+        {
+            "id": 3,
+            "lastName": "Gonzalez",
+            "password": "todosevaleenunautobus",
+            "name": "Paola",
+            "telephone": "stolen",
+            "uuid": "Frutsi",
+            "email": "paola.gonzalez@smartqs.com"
+        },
+        {
+            "id": 4,
+            "lastName": "Rodriguez",
+            "password": "iloveamphar0s",
+            "name": "Eduardo",
+            "telephone": "stolen",
+            "uuid": "lalitomix",
+            "email": "eduardo.rodriguez@smartqs.com"
+        }
+
+
+    ],
+    "sales":[
+
+
+    ],
+    "stations":[
+
+    ]
+}
